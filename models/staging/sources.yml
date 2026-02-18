@@ -1,0 +1,10 @@
+version: 2
+
+sources:
+  - name: raw_data
+    description: "Green taxi trip data for New York City"
+    database: data-engineer-zoomcamp-486517 #project id
+    schema: nytaxi_ext
+    tables:
+      - name: green_tripsdata
+      - name: yellow_tripsdata
