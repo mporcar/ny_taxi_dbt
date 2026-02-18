@@ -6,5 +6,5 @@ sources:
     database: data-engineer-zoomcamp-486517 #project id
     schema: nytaxi_ext
     tables:
-      - name: green_tripsdata
-      - name: yellow_tripsdata
+      - name: green_tripdata
+      - name: yellow_tripdata
